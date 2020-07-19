@@ -1,2 +1,2 @@
 # coursera-test
-this is a coursera test repo
+this is a general tp repo
