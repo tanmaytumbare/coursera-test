@@ -1,10 +1,10 @@
-
 * {
   box-sizing: border-box;
 }
 
 h1 {
   margin-bottom: 15px;
+  text-align: center;
 }
 
 p {
@@ -19,11 +19,6 @@ p {
   text-align: right;
   padding: 10px;
 }
-
-h3{
-  position: relative;
-}
-
 
 .row {
   width: 100%;
